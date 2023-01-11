@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Benjamin, @bs83de
-- 👀 I’m interested in cyber security audits, penetration testing, IEC 62443, and cyber security awareness
+- 👀 I’m interested in incident response, OASIS CSAF 2.0, VEX, CycloneDX SBOM, product security (IEC 62443), and cyber security awareness
 - 📫 E-mail: bs83de@blakemail.de
